@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield Background -->
+    <path
+        android:fillColor="#102040"
+        android:pathData="M54,4L94,16V44C94,78 74,100 54,104C34,100 14,78 14,44V16L54,4Z" />
+
+    <!-- Inner Shield Highlight -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M54,10L88,20V42C88,72 72,92 54,96C36,92 20,72 20,42V20L54,10Z" />
+
+    <!-- Circuit lines -->
+    <path
+        android:strokeColor="#33B5E5"
+        android:strokeWidth="2"
+        android:pathData="M54,32L54,70M40,46L68,46M40,56L68,56" />
+
+    <!-- Checkmark -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M45,55L52,62L67,47L63,43L52,54L49,51Z" />
+
+</vector>

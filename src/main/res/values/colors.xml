@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#0B1524</color>
+    <color name="accent_color">#3FC1C9</color>
+
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+    <color name="splash_bg_color">#0A0F1E</color>
+
+
+
+</resources>
